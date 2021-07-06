@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4).
+  Parsing headers for Arkenoid_2Editor
+    Running UnrealHeaderTool "D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Arkenoid_2.uproject" "D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Intermediate\Build\Win64\Arkenoid_2Editor\Development\Arkenoid_2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\sukru\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for Arkenoid_2Editor in 5.7485182 seconds
+  Building Arkenoid_2Editor...
+  Using Visual Studio 2019 14.28.29914 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29910) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 6 actions with 12 processes...
+    [1/6] Arkenoid_2.init.gen.cpp
+    [2/6] Paddle_Player_Controller.cpp
+    [3/6] Paddle_Player_Controller.gen.cpp
+    [4/6] UE4Editor-Arkenoid_2-0004.lib
+       Creating library D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Intermediate\Build\Win64\UE4Editor\Development\Arkenoid_2\UE4Editor-Arkenoid_2-0004.lib and object D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Intermediate\Build\Win64\UE4Editor\Development\Arkenoid_2\UE4Editor-Arkenoid_2-0004.exp
+    [5/6] UE4Editor-Arkenoid_2-0004.dll
+       Creating library D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Intermediate\Build\Win64\UE4Editor\Development\Arkenoid_2\UE4Editor-Arkenoid_2-0004.suppressed.lib and object D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Intermediate\Build\Win64\UE4Editor\Development\Arkenoid_2\UE4Editor-Arkenoid_2-0004.suppressed.exp
+    [6/6] Arkenoid_2Editor.target
+  Total time in Parallel executor: 9.94 seconds
+  Total execution time: 17.46 seconds

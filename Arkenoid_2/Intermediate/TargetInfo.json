@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Arkenoid_2",
+			"Path": "D:\\Unreal Engine Projeler\\Breakout_Game_UnrealEngine4\\Arkenoid_2\\Source\\Arkenoid_2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Arkenoid_2Editor",
+			"Path": "D:\\Unreal Engine Projeler\\Breakout_Game_UnrealEngine4\\Arkenoid_2\\Source\\Arkenoid_2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

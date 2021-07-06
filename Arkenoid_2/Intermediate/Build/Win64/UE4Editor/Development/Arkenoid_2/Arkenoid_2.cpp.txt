@@ -1,0 +1,2 @@
+D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Intermediate\Build\Win64\UE4Editor\Development\Arkenoid_2\Definitions.Arkenoid_2.h
+D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Source\Arkenoid_2\Arkenoid_2.h
