@@ -16,7 +16,7 @@ APaddle::APaddle()
 	SM_Padle->SetEnableGravity(false);
 	SM_Padle->SetConstraintMode(EDOFMode::XZPlane);
 	SM_Padle->SetCollisionEnabled(ECollisionEnabled::QueryAndPhysics);
-	SM_Padle->SetCollisionProfileName(TEXT("Physics Actor"));
+	SM_Padle->SetCollisionProfileName(TEXT("PhysicsActor"));
 	
 	FloatingMovement = CreateDefaultSubobject<UFloatingPawnMovement>(TEXT("Floating Pawn Movement"));
 }

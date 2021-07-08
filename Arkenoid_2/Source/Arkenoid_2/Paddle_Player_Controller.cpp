@@ -27,8 +27,6 @@ void APaddle_Player_Controller::SetupInputComponent()
 	InputComponent->BindAxis("MoveHorizontal", this, &APaddle_Player_Controller::MoveHorizontal);
 }
 
-
-
 void APaddle_Player_Controller::MoveHorizontal(float AxisValue)
 {
 	auto myPawn = Cast<APaddle>(GetPawn());
