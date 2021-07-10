@@ -16,3 +16,5 @@ D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraActor.h
 D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraActor.generated.h
 D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Source\Arkenoid_2\Paddle.h
 D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Intermediate\Build\Win64\UE4Editor\Inc\Arkenoid_2\Paddle.generated.h
+D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Source\Arkenoid_2\Ball2.h
+D:\Unreal Engine Projeler\Breakout_Game_UnrealEngine4\Arkenoid_2\Intermediate\Build\Win64\UE4Editor\Inc\Arkenoid_2\Ball2.generated.h
