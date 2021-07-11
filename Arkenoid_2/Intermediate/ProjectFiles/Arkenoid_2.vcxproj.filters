@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\Arkenoid_2.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{4B19772C-3FB7-42A4-8BEC-EE01D07167CA}</UniqueIdentifier>
+      <UniqueIdentifier>{5AEE23B6-E1FB-405F-9097-AF202574D99B}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Arkenoid_2.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{1EE13ECD-D0A3-40A2-AE4D-EF0EA7ED78F4}</UniqueIdentifier>
+      <UniqueIdentifier>{79626CC7-DCA4-4DEF-80F1-7144642BCCAB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\Arkenoid_2">
-      <UniqueIdentifier>{7518EBAE-64F9-4A13-B456-615E0D1D7980}</UniqueIdentifier>
+      <UniqueIdentifier>{6724348A-99C3-4B43-87A5-CDBB92A98F08}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Arkenoid_2\Arkenoid_2.Build.cs">
       <Filter>Source\Arkenoid_2</Filter>
@@ -48,6 +48,12 @@
       <Filter>Source\Arkenoid_2</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Arkenoid_2\Ball2.h">
+      <Filter>Source\Arkenoid_2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Arkenoid_2\BallBound.cpp">
+      <Filter>Source\Arkenoid_2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Arkenoid_2\BallBound.h">
       <Filter>Source\Arkenoid_2</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\Arkenoid_2\Brick.cpp">
